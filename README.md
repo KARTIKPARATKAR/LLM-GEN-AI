@@ -5,3 +5,5 @@
 [Pretraining and Fine Tunning Of LLM](https://github.com/KARTIKPARATKAR/LLM-GEN-AI/blob/main/PretrainingVSFIneTunning.ipynb)
 
 [Transformer Architecture](https://github.com/KARTIKPARATKAR/LLM-GEN-AI/blob/main/Transformers.ipynb)
+
+[Generative Pretrained Transformers- GPT](https://github.com/KARTIKPARATKAR/LLM-GEN-AI/blob/main/Generative_Pretrained_Transformers.ipynb)
